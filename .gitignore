@@ -37,3 +37,6 @@ src/apps/hello-world/yarn.lock
 yarn-error.log
 .angular/cache
 out-tsc
+
+# macOS AppleDouble metadata (created when copying to a non-APFS volume)
+._*
