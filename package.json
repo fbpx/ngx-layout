@@ -9,6 +9,7 @@
     "url": "git+https://github.com/ngbracket/ngx-layout.git"
   },
   "license": "MIT",
+  "packageManager": "yarn@1.22.22",
   "engines": {
     "node": "^16.14.0 || >=18.10.0",
     "yarn": ">=1.22.4 <2",
